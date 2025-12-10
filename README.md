@@ -6,14 +6,13 @@ project final DS512-513
 ## Insight
 * ยอดขายเพิ่มขึ้น แต่จำนวนขายและผู้ซื้อลดลงจากปีก่อนหน้า นั่นหมายความว่าขายสินค้า/บริการที่มีราคาสูงได้เพิ่มขึ้น
 * ช่องทางที่ทำยอดขายได้มากที่สุดยังคงเป็นช่องทาง TeleSales และ DirectSales ซึ่งมีการเติบโตผ่านช่องทาง TeleSales มากขึ้น
-<p alingn="center"><img width="50%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d7a254a9-1d22-43ff-9cbe-eb5c6f43e909" /></p>
-
+<p align="center"><img width="50%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d7a254a9-1d22-43ff-9cbe-eb5c6f43e909" /></p>
 
 * สินค้า/บริการส่วนใหญ่มากจากกลุ่ม Home Expert และที่ทำให้ยอดขายเพิ่มขึ้นมากที่สุดได้แก่ Fix-to-Order (การซ่อมบ้าน)
 * ทำสวน และ น้ำดื่ม เป็นสินค้า/บริการที่มีการซื้อผ่านช่องทาง Organic เป็นส่วนใหญ่
-<p alingn="center"><img width="50%" height="861" alt="Dashboard 2" src="https://github.com/user-attachments/assets/3c90a460-938e-4c5a-86d9-e8a4a1145e19" /></p>
+<p align="center"><img width="50%" height="861" alt="Dashboard 2" src="https://github.com/user-attachments/assets/3c90a460-938e-4c5a-86d9-e8a4a1145e19" /></p>
 
 * ลูกค้าส่วนใหญ่เป็นเพศหญิงมากกว่า
 * Gen Y เป็นกลุ่มลูกค้ารายใหญ่
 * ลูกค้าอยู่ในกทม.มากที่สุด
-<p alingn="center"> <img width="50%" alt="Dashboard 3" src="https://github.com/user-attachments/assets/dcb6c10d-eb48-41d1-ad6a-9a5e49318eae" /></p>
+<p align="center"> <img width="50%" alt="Dashboard 3" src="https://github.com/user-attachments/assets/dcb6c10d-eb48-41d1-ad6a-9a5e49318eae" /></p>
