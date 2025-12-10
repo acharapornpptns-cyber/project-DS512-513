@@ -41,7 +41,7 @@ https://drive.google.com/file/d/1J5HmJousjH2S4zBVMAE3fJakB4ubx0W4/view?usp=drive
 | **Age** | อายุ | Integer | อายุของลูกค้า (14-88 ปี) |
 
 ## Insight
-<p align = "center"><img width="40%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5d0dea1c-4f56-4e8a-aa52-89befc845117" /></p>
+<p align = "center"><img width="50%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5d0dea1c-4f56-4e8a-aa52-89befc845117" /></p>
 * ยอดขายเพิ่มขึ้น แต่จำนวนขายและผู้ซื้อลดลงจากปีก่อนหน้า นั่นหมายความว่าขายสินค้า/บริการที่มีราคาสูงได้เพิ่มขึ้น </br>
 * ช่องทางที่ทำยอดขายได้มากที่สุดยังคงเป็นช่องทาง TeleSales และ DirectSales ซึ่งมีการเติบโตผ่านช่องทาง TeleSales มากขึ้น </br>
 
