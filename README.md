@@ -40,4 +40,22 @@ https://drive.google.com/file/d/1J5HmJousjH2S4zBVMAE3fJakB4ubx0W4/view?usp=drive
 | **Supplier_Name** | ชื่อผู้ให้บริการ | Categorical | ชื่อผู้ให้บริการเช่น เนสท์เล่ |
 | **Age** | อายุ | Integer | อายุของลูกค้า (14-88 ปี) |
 
+## Insight
+<p align = "center"><img width="40%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5d0dea1c-4f56-4e8a-aa52-89befc845117" /></p>
+* ยอดขายเพิ่มขึ้น แต่จำนวนขายและผู้ซื้อลดลงจากปีก่อนหน้า นั่นหมายความว่าขายสินค้า/บริการที่มีราคาสูงได้เพิ่มขึ้น
+* ช่องทางที่ทำยอดขายได้มากที่สุดยังคงเป็นช่องทาง TeleSales และ DirectSales ซึ่งมีการเติบโตผ่านช่องทาง TeleSales มากขึ้น
+
+<p align = "center"><img width="40%" alt="Dashboard 2" src="https://github.com/user-attachments/assets/f31756c9-2e3b-4200-92e3-138c1c570028" /></p>
+* สินค้า/บริการส่วนใหญ่มากจากกลุ่ม Home Expert และที่ทำให้ยอดขายเพิ่มขึ้นมากที่สุดได้แก่ Fix-to-Order (การซ่อมบ้าน)
+* ทำสวน และ น้ำดื่ม เป็นสินค้า/บริการที่มีการซื้อผ่านช่องทาง Organic เป็นส่วนใหญ่
+
+<p align = "center"> <img width="1657" height="861" alt="Dashboard 3" src="https://github.com/user-attachments/assets/43bcf5dd-1921-424a-9b8b-005594844e5e" /></p>
+* ลูกค้าส่วนใหญ่เป็นเพศหญิงมากกว่า
+* Gen Y เป็นกลุ่มลูกค้ารายใหญ่
+* ลูกค้าอยู่ในกทม.มากที่สุด
+
+
+
+
+
 
