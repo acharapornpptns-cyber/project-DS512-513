@@ -2,4 +2,4 @@
 project final DS512-513
 
 โครงงานนี้เป็นส่วนหนึ่งของรายวิชา DS512/DS513 Data Analytics จากข้อมูลชุดนี้เป็นข้อมูลการขายสินค้า/บริการของบริษัทแห่งหนึ่ง โดยมีวัตถุประสงค์หลักในวิเคราะห์หรือทำนายช่องทางการขายที่เหมาะสม เพื่อช่วยให้ทีมขายเลือกช่องทางได้ตรงกับประเภทสินค้าและราคาที่เสนอได้
-https://drive.google.com/file/d/1J5HmJousjH2S4zBVMAE3fJakB4ubx0W4/view?usp=drive_link
+<img width="1657" height="861" alt="Dashboard 3" src="https://github.com/user-attachments/assets/f417e836-d70d-4d92-8661-4039ffed6c48" />
