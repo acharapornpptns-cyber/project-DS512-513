@@ -43,6 +43,10 @@
 | **Supplier_Name** | ชื่อผู้ให้บริการ | Categorical | ชื่อผู้ให้บริการเช่น เนสท์เล่ |
 | **Age** | อายุ | Integer | อายุของลูกค้า (14-88 ปี) |
 
+## 🛠️ Tools Used
+- **Excel / Power Query** (for Data Cleaning and Preparation)
+- **Tableau** (for Data Visualization)
+
 ## Data Cleansing
 * เปลี่ยนประเภทของข้อมูล
 * Spilt คอลัมน์ข้อมูลที่อยู่
@@ -51,7 +55,7 @@
 * ลบข้อมูลลูกค้าที่อายุน้อยกว่า 14 ปี
 
 ## Insight
-### Peak Performance 
+## Performance 
 
 <p align = "center"><img width="50%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5d0dea1c-4f56-4e8a-aa52-89befc845117" /></p>
 
@@ -82,9 +86,7 @@
 * Gen Y เป็นกลุ่มลูกค้ารายใหญ่ </br>
 * ลูกค้าอยู่ในกทม.มากที่สุด </br>
 
-## 🛠️ Tools Used
-- **Microsoft Power BI** (for Data Visualization)
-- **Excel / SQL** (for Data Cleaning and Preparation)
+
 
 
 
