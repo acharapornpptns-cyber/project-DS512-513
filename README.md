@@ -59,6 +59,12 @@
 * เพิ่มคอลัมน์อายุ
 * ลบข้อมูลลูกค้าที่อายุน้อยกว่า 14 ปี
 
+## การวิเคราะห์ข้อมูล (EDA)
+
+<img width="560" height="450" alt="Target" src="https://github.com/user-attachments/assets/42dc8321-8725-4680-985b-093d085deb16" />
+
+* จากรูปพบว่ามีข้อมูล Imbalance ชัดเจน โดยข้อมูลส่วนใหญ่อยู่ที่ช่องทาง TeleSales และส่วนน้อยสุดอยู่ที่ช่องทาง DirectSales
+
 ## Insight
 
 <p align = "center"><img width="80%" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5d0dea1c-4f56-4e8a-aa52-89befc845117" /></p>
