@@ -68,6 +68,8 @@
 df2 = df.dropna(subset=['Gender', 'Year_Birthday', 'Subdistrict', 
                         'District', 'Province', 'Postal_Code', 'Payment_Method'])
 ```
+* ตัวอย่าง Data Cleansing
+![messageImage_1765699636315](https://github.com/user-attachments/assets/04fcc190-5fc3-48ec-bc5b-02f484f6beda)
 
 ## การวิเคราะห์ข้อมูล (EDA)
 <img width="560" height="450" alt="Target" src="https://github.com/user-attachments/assets/42dc8321-8725-4680-985b-093d085deb16" />
