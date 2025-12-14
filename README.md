@@ -4,6 +4,11 @@
 
 โครงการนี้เป็นส่วนหนึ่งของรายวิชา **DS512/DS513 Data Analytics** และ **DS514/DS515 Data Science** โดยมีวัตถุประสงค์หลักเพื่อวิเคราะห์ข้อมูลการขายสินค้า/บริการของบริษัท A และสร้างโมเดล Machine Learning เพื่อทำนาย "ช่องทางการขายที่เหมาะสม" (Sales Channel) ช่วยให้ทีมขายเลือกช่องทางได้ตรงกับประเภทสินค้าและราคาที่เสนอได้
 
+## Data Source
+
+* Total Rows: 18,253 records
+* Total Columns: 24 columns
+
 ## Problem
 บริษัทมีหลายสินค้า/บริการที่ขายผ่านช่องทางต่าง ๆ เช่น Direct Sales, Tele Sales, Organic (ลูกค้าซื้อเอง)
 ข้อมูลการขายที่มีข้อมูลเก็บอยู่คือ Package Group, Package Type, Solution Type, และ Price After Discount เป็นต้น
