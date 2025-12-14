@@ -61,14 +61,8 @@
 * ลบช่องว่างของข้อมูล
 * เพิ่มคอลัมน์อายุ
 * ลบข้อมูลลูกค้าที่อายุน้อยกว่า 14 ปี
-  #### ตัวอย่างการลบช่องว่างของข้อมูล
-  
-```python
-# Code Snippet: Dropping null values
-df2 = df.dropna(subset=['Gender', 'Year_Birthday', 'Subdistrict', 
-                        'District', 'Province', 'Postal_Code', 'Payment_Method'])
-```
-* ตัวอย่าง Data Cleansing
+
+ตัวอย่าง Data Cleansing :
 ![messageImage_1765699636315](https://github.com/user-attachments/assets/04fcc190-5fc3-48ec-bc5b-02f484f6beda)
 
 ## การวิเคราะห์ข้อมูล (EDA)
